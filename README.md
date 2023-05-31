@@ -34,7 +34,7 @@ Dữ liệu sẽ được sử lý và đổ vào cơ sở dữ liệu Stage tr�
 
 ### 4. Xử dụng SSIS để phân tích
 Đưa ra các câu hỏi và dùng SSIS để trả lời
-Ví dụ: Thị trường nào có doanh thu nhiều nhất và thị trường nào có doanh thu ít nhất?
+- Ví dụ: Thị trường nào có doanh thu nhiều nhất và thị trường nào có doanh thu ít nhất?
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture8.png">
 </picture>
