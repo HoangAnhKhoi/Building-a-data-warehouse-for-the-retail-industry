@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Final_Project_DAWH_SSAS_GR13", "Final_Project_DAWH_SSAS_GR13\Final_Project_DAWH_SSAS_GR13.dwproj", "{94B10405-C1D7-459B-A52C-230C75E41C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B10405-C1D7-459B-A52C-230C75E41C38}.Development|Default.ActiveCfg = Development
+		{94B10405-C1D7-459B-A52C-230C75E41C38}.Development|Default.Build.0 = Development
+		{94B10405-C1D7-459B-A52C-230C75E41C38}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D88F884-C4E8-49DD-B103-85C1847F8FB7}
+	EndGlobalSection
+EndGlobal
