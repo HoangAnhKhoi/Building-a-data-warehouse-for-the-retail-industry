@@ -15,10 +15,10 @@ khu vực khác nhau.
 ### 2. Lược đồ 
 - Snowflake Schema
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture1.png)">
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture2.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="[[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture1.png)](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture1.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="[[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture2.png)](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture2.png)">
 </picture>
 - Constellation Schema
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture3.png)">
+  <source media="[(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture3.png)](https://github.com/HoangAnhKhoi/Building-a-data-warehouse-for-the-retail-industry/blob/main/Image/Picture1.png)">
 </picture>
