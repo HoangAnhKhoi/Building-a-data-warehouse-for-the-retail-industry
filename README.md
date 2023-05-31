@@ -23,5 +23,10 @@ khu vực khác nhau.
 
 - Constellation Schema
 <picture>
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture3.png">
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture3.png">
 </picture>
+### 3. Xây dựng ETL pipeline bằng SSIS
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture4.png">
+</picture>
+### 4. Xử dụng SSIS để phân tích
