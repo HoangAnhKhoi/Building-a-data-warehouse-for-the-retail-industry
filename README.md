@@ -23,5 +23,34 @@ khu vực khác nhau.
 
 - Constellation Schema
 <picture>
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture3.png">
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture3.png">
+</picture>
+
+### 3. Xây dựng ETL pipeline bằng SSIS
+Dữ liệu sẽ được sử lý và đổ vào cơ sở dữ liệu Stage trước sau khi hoàn tất thì sẽ đổ vào kho dữ liệu
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture4.png">
+</picture>
+
+### 4. Xử dụng SSIS để phân tích
+Đưa ra các câu hỏi và dùng SSIS để trả lời
+Ví dụ: Thị trường nào có doanh thu nhiều nhất và thị trường nào có doanh thu ít nhất?
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture8.png">
+</picture>
+
+### 5. Tạo dashboard bằng Power BI
+-	Báo cáo doanh thu
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture5.png">
+</picture>
+
+-	Báo cáo tình trạng vận chuyển hàng
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture6.png">
+</picture>
+
+-	Báo cáo số lượng hàng hoá bán ra theo thời gian, khu vực và thị trường và theo loại sản phẩm.
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture7.png">
 </picture>
