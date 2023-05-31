@@ -16,9 +16,10 @@ khu vực khác nhau.
 - Snowflake Schema
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture1.png">
+</picture>
+<picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture2.png">
 </picture>
-
 - Constellation Schema
 <picture>
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Image/Picture3.png">
